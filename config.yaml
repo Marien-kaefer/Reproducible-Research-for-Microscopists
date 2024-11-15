@@ -69,7 +69,7 @@ episodes:
 - step5Testing.Rmd
 - step6Automate.Rmd
 - step7PublishPIDReuse.Rmd
-- PublishingImages.Rmd
+- Step8PublishingImages.Rmd
 - wrapup.Rmd
 
 
