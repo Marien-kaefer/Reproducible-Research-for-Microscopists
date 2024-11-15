@@ -1,3 +1,5 @@
+[Markdown cheat sheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
+
 # The Carpentries Workbench Template Markdown Lesson
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
