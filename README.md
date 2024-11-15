@@ -1,4 +1,5 @@
 [Markdown cheat sheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
+[Canonical markdown cheat sheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
 
 # The Carpentries Workbench Template Markdown Lesson
 
