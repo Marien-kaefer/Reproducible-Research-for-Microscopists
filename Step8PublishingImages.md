@@ -9,7 +9,7 @@ You are nearing the end of this project, and need to start preparing for publica
 
 ::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Opportunity to show good examples. 
+Opportunity to ask people for ideas on what needs to be done, either on whiteboard or in chat.
 
 ::::::::::::::::::::::::::::::::::::::::::::::: 
 
@@ -18,7 +18,7 @@ Opportunity to show good examples.
 
 ### Resources
 
-This [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) may be helpful.
+This publication - [Community-developed checklists for publishing images and image analyses](https://www.nature.com/articles/s41592-023-01987-9) - may be helpful.
 
 
 [CESSDA Data Management Expert Guide- Archiving and Publishing](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish)
@@ -44,26 +44,7 @@ This information will appear on https://amandamiotto.github.io/ReproducibleResea
 -->
 
 
-# Publishing Raw data
-
-# Preparing images for publication
-
-### Resources
-
-The checklists published in [Community-developed checklists for publishing images and image analyses](https://www.nature.com/articles/s41592-023-01987-9) may be helpful.
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Persistent Identifiers
 
 
 
