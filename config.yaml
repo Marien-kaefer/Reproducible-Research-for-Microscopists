@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: '7 Steps towards Reproducible Research'
+title: 'Reproducible Research for Microscopists'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2024-04-01'
+created: '2024-11-15'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'reproducible, reproducible research, knowledge trust, knowledge retention, data management, data, lesson, The Carpentries'
+keywords: 'reproducible, reproducible research, FAIR, knowledge trust, knowledge retention, data management, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -33,7 +33,7 @@ source: 'https://github.com/carpentries/workbench-template-md'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'a.miotto@griffith.edu.au'
+contact: 'mheldb@liverpool.ac.uk'
 
 # Navigation ------------------------------------------------
 #
