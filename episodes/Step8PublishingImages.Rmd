@@ -47,6 +47,10 @@ create a citation for your work.
 
 Some repositories include:
 
+ - [Image Data Resource (IDR)] (https://idr.openmicroscopy.org/)
+
+ - [BioImage Archive] (https://www.ebi.ac.uk/bioimage-archive/)
+
  - [Figshare](https://figshare.com/)
 
  - [Zenodo](https://zenodo.org/)
