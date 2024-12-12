@@ -18,12 +18,7 @@ Opportunity to ask people for ideas on what needs to be done, either on whiteboa
 
 ### Resources
 
-This [Project completion checklist](https://github.com/BahlaiLab/Policies/blob/master/Project_completion.md) may be helpful.
-
-
-[CESSDA Data Management Expert Guide- Archiving and Publishing](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish)
-
-
+This publication - [Community-developed checklists for publishing images and image analyses](https://www.nature.com/articles/s41592-023-01987-9) - may be helpful.
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -47,11 +42,11 @@ May be worth checking with your library or research office.
 
 ### What is the difference?
 
-***An identifier*** is any label used to name an item (whether digital or physical). URLs and serial numbers are an examples of digital identifiers. Personal names are also identifiers, but are not necessarily unique as you may share the same name with other researchers around the world.
+***An identifier*** is any label used to name an item (whether digital or physical). URLs and serial numbers are an examples of digital identifiers. Personal names are also identifiers, but are not necessarily unique as you may share the same name with other researchers around the world. Even publications might share the same title. 
 
 Examples of identifiers:
 
-URL: https://www.griffith.edu.au/eresearch-services/hacky-hour would direct to the correct website.... until the team got renamed during a restructure.
+URL: https://cci.liv.ac.uk/ would direct to the correct website.... until the facility gets renamed during a restructure.
 
 Barcode: 32888493 may work in a lab, however may not be unique outside a lab. Or the product making the barcode may be discontinued.
 
@@ -59,9 +54,9 @@ Barcode: 32888493 may work in a lab, however may not be unique outside a lab. Or
 
 ***A persistent identifier*** is long-lasting unique digital reference to a webpage, digital object, even a person.
 
- - DOI
+ - [DOI] (https://www.doi.org/)
 
- - ORCID
+ - [ORCID] (https://orcid.org/)
 
 This video from [Research Data Netherlands](https://www.youtube.com/watch?v=PgqtiY7oZ6k) explains persistent identifiers and data citation.
 
@@ -75,7 +70,7 @@ A DOI is a unique alphanumeric string that identifies content and provides a per
 
 They are the global standard for digital scholarly publications. 
 
-A DOI looks like this: https://doi.org/10.31219/osf.io/8v2n7
+A DOI looks like this: https://doi.org/10.3389/fimmu.2024.1440324
 
 ##### Minting DOI
 
@@ -93,6 +88,8 @@ Journal publishers assign DOIs to electronic versions of individual articles & d
 
 In addition, [Open Science Framework](https://help.osf.io/article/220-create-dois) can mint a DOI for your repository.
 
+The University of [Liverpool’s Research Data Catalogue](https://www.liverpool.ac.uk/library/research-data-management/details-guidance-advice/sharing/doi/), creates a DOI when you upload your data files. You can use this DOI in data statements, articles and other publications that are based on this data and in other digital communications, such as social media.
+
 
 #### ORCID - Identify a person
 
@@ -100,7 +97,7 @@ ORCID [Open Researcher and Contributor ID](https://info.orcid.org/researchers/) 
 
 You can connect your ID with your professional information — affiliations, grants, publications, peer review, and more. You can use your ID to share your information with other systems, ensuring you get recognition for all your contributions, saving you time and hassle, and reducing the risk of errors.
 
-An ORCID looks like https://orcid.org/0000-0002-0838-1771 .
+An ORCID looks like https://orcid.org/0000-0003-0118-5898.
 
 
 This can assist people to find you :
